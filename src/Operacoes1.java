@@ -1,4 +1,4 @@
-public class Main {
+public class Operacoes1 {
     public static void main(String[] args) {
 
         int x = 1 + 5*3/3;
